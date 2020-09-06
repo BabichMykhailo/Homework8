@@ -1,0 +1,6 @@
+C:\Users\Михаил\Desktop\Homework_8\ClassLibrary_Homework8\bin\Debug\ClassLibrary_Homework8.dll
+C:\Users\Михаил\Desktop\Homework_8\ClassLibrary_Homework8\bin\Debug\ClassLibrary_Homework8.pdb
+C:\Users\Михаил\Desktop\Homework_8\ClassLibrary_Homework8\obj\Debug\ClassLibrary_Homework8.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\Homework_8\ClassLibrary_Homework8\obj\Debug\ClassLibrary_Homework8.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\Homework_8\ClassLibrary_Homework8\obj\Debug\ClassLibrary_Homework8.dll
+C:\Users\Михаил\Desktop\Homework_8\ClassLibrary_Homework8\obj\Debug\ClassLibrary_Homework8.pdb

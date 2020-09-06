@@ -1,0 +1,2 @@
+C:\Users\Михаил\Desktop\Homework_8\ConsoleApp_Homework_8\obj\Debug\ConsoleApp_Homework_8.csprojAssemblyReference.cache
+C:\Users\Михаил\Desktop\Homework_8\ConsoleApp_Homework_8\obj\Debug\ConsoleApp_Homework_8.csproj.CoreCompileInputs.cache
